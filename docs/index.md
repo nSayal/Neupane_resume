@@ -72,6 +72,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Brigham Young University - Idaho__, Rexburg, ID
 
 __Society of Artificial Intelligence__
+
 __Data Science Society__
 
 
