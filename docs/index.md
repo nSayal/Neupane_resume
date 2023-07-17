@@ -58,12 +58,12 @@ __Imagine Learning__
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`September 2022 - December 2022`
+__Assistant Cheif__, Sodexo, VT
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`January 2023 - April 2023`
+__Custodial Lead__, Rexburg, ID
 
 
 
