@@ -16,10 +16,10 @@ Resume of Sayal Neupane.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2022`
+__Golden Gate Int'L College__, Kathmandu, Nepal
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 3.70 GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -29,14 +29,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Class
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2019 - December 2019`
+__Golden Gate Int'L College__, Kathmandu, Nepal
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Completed coursework in Physics, Chemistry, Mathematics, and Computer Science to prepare for future pursuits.
+- Gained hands-on experience working in various physics and chemistry labs, including. Developed knowledge of lab safety protocols and procedures and honed data analysis and scientific report writing skills.
 
 ### Data Science Lead
 
