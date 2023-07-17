@@ -73,7 +73,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Assistant Chef__, Sodexo, VT
 
 
-`January 2023 - April 2023`
+`January 2023 - July 2023`
 __Custodial Lead__, Rexburg, ID
 
 
