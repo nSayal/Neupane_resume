@@ -68,12 +68,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Society
 
-`April 2023 - July 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
+`Since April 2023`
 
-__Society of Artificial Intelligence__
+__Society of Artificial Intelligence__, Rexburg, ID
 
-__Data Science Society__
+__Data Science Society__, Rexburg, ID
 
 
 ## Work History
