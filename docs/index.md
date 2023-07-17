@@ -26,11 +26,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 4.0 Major GPA
 
 
-## Related Experience
+## Class Experience
 
-### Class
+### High School
 
-`January 2019 - December 2019`
+`January 2019 - December 2022`
 __Golden Gate Int'L College__, Kathmandu, Nepal
 
 - Completed coursework in Physics, Chemistry, Mathematics, and Computer Science to prepare for future pursuits.
