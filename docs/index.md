@@ -42,24 +42,35 @@ __Golden Gate Int'L College__, Kathmandu, Nepal
 `April 2023 - July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Acquired proficiency in using Altair, Pandas, and machine learning techniques
-- Gained a comprehensive understanding of data science principles and methodologies
-- Explored the processing and organization of data in various contexts
+- Acquired proficiency in using Altair, Pandas, and machine learning techniques.
+- Gained a comprehensive understanding of data science principles and methodologies.
+- Explored the processing and organization of data in various contexts.
 
 ### CSE 111
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`April 2023 - July 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Developed proficiency in utilizing functions in Python for efficient code organization and reusability
-- Acquired knowledge of utilizing various libraries and modules in Python to leverage existing functionalities and enhance productivity
-- Gained insights into best practices in Python programming, enabling cleaner and more maintainable code
+- Developed proficiency in utilizing functions in Python for efficient code organization and reusability.
+- Acquired knowledge of utilizing various libraries and modules in Python to leverage existing functionalities and enhance productivity.
+- Gained insights into best practices in Python programming, enabling cleaner and more maintainable code.
+
+### ECEN 106
+
+`April 2023 - July 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Gained proficiency in programming and utilizing Arduino, a versatile microcontroller platform.
+- Acquired knowledge of CPU (Central Processing Unit) and registries, understanding their functionality and operation.
+- Developed a foundational understanding of assembly language and its basic principles.
+- Explored the inner workings of CPU and registries, gaining insights into their roles in program execution.
+- Expanded knowledge on the fundamentals of assembly language, including instruction sets and programming concepts.
 
 
-## Service and Work History
+## Work History
 
 `September 2022 - December 2022`
-__Assistant Cheif__, Sodexo, VT
+__Assistant Chef__, Sodexo, VT
 
 
 `January 2023 - April 2023`
@@ -69,6 +80,6 @@ __Custodial Lead__, Rexburg, ID
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
