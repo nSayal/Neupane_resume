@@ -66,6 +66,15 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Expanded knowledge on the fundamentals of assembly language, including instruction sets and programming concepts.
 
 
+## Society
+
+`April 2023 - July 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+__Society of Artificial Intelligence__
+__Data Science Society__
+
+
 ## Work History
 
 `September 2022 - December 2022`
