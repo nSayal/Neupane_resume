@@ -12,7 +12,6 @@ Resume of Sayal Neupane.
 | <a href="https://github.com/nSayal/Neupane_resume.git">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
@@ -21,7 +20,7 @@ __Golden Gate Int'L College__, Kathmandu, Nepal
 
 - Full academic scholarship with 3.70 GPA
 
-`Expected 2029`
+`Expected 2026`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
